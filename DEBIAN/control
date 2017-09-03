@@ -1,0 +1,11 @@
+Package: live-installer
+Version: 20161211
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 4336
+Depends: python (>= 2.7), python (<< 3), python-gtk2, python-glade2, python-webkit, python-parted, parted, gparted, python-geoip, geoip-database-contrib, python-opencv, python-qt4, python-imaging, streamer, imagemagick, desktop-file-utils, shared-mime-info, sysv-rc, menu, gdisk, isoquery, iso-codes, locales, adduser, rsync, sparky-remsu, dosfstools
+Section: System
+Priority: optional
+Description: Sparky Installer
+  Sparky installer is a fork of Linux Mint Debian Edition (LMDE) installer.
+

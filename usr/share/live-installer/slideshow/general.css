@@ -1,0 +1,8 @@
+body { text-align: center; background-image:url('background.jpg'); background-repeat:no-repeat;}
+h1 { font-size: 30px; padding-top: 50px; }
+body { font: 14px Helvetica, sans-serif; color: #000000; }
+article { display: block; text-align: left; width: 400px; margin: 0 auto; padding: 20px; }
+a { color: #9dc565; text-decoration: none; }
+a:hover { color: #829864; text-decoration: none; }
+p { text-align: left;}
+.pcenter { text-align: center;}

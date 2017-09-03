@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Sparky Installer
+GenericName=Sparky Installer
+Comment=Sparky Installer
+Exec=sudo /usr/bin/live-installer
+Icon=/usr/share/icons/live-installer.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
+GenericName[en_US]=Sparky Installer
+
